@@ -7,3 +7,5 @@ Then the program simulates the computers throw of 5 dice, along with the sum of 
 If the user’s call of higher or lower was correct, then they have won.
 
 **An ASCII diagram of a dice was included in the program for extra credits. 
+
+DIDUNOLUWA JOHNSON
